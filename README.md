@@ -1,5 +1,11 @@
 # Portfolio Website
 
+
+![image](https://github.com/user-attachments/assets/bd2e67c0-0a81-4745-8ae1-df645a461eef)
+
+
+
+
 A modern, responsive portfolio website built with Flask and Tailwind CSS. Showcase your projects, skills, and contact information in a clean and professional manner.
 
 ## Features
